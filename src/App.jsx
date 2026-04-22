@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 const photos = [
   { src: '/photos/distinguished.jpeg', caption: 'The Distinguished Gentleman', note: 'That silver muzzle. Those ancient, knowing eyes.' },
   { src: '/photos/smile-couch.jpeg', caption: 'The Couch Smile', note: 'Absolutely thrilled. About nothing. About everything.' },
-  { src: '/photos/puppy-days.png', caption: 'Puppy Days', note: 'Original tiny version. Same soul. Pink collar era.' },
+  { src: '/photos/puppy-days.jpeg', caption: 'Puppy Days', note: 'Original tiny version. Same soul. Pink collar era.' },
   { src: '/photos/snow-watch.jpeg', caption: 'First Snow Watch', note: 'Guarding the window. The yard is his jurisdiction.' },
   { src: '/photos/belly-rubs.jpeg', caption: 'Belly Rubs, Please', note: 'He will accept nothing less than a full rub session.' },
   { src: '/photos/toothy-grin.jpeg', caption: 'The Toothy Grin', note: 'When he rolls over and remembers he has teeth.' },
