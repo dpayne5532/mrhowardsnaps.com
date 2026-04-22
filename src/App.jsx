@@ -35,7 +35,7 @@ function Hero() {
       <div className="hero-inner">
         <p className="eyebrow">A very serious archive</p>
         <h1>
-          Mr. Howard<span className="sparkle">✦</span>
+          Mr. Howard Snaps<span className="sparkle">✦</span>
         </h1>
         <p className="tagline">
           The goodest boy. The coziest companion. A small-batch, hand-crafted,
