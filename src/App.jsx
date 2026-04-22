@@ -156,7 +156,7 @@ function AboutHim() {
       </div>
       <div className="about-quote">
         <blockquote>
-          "Ten pounds of heart in a fifty-pound dog."
+          "Ten pounds of heart in a twenty-pound dog."
         </blockquote>
         <cite>— anyone who has met him</cite>
       </div>
